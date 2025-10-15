@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Compile paper
-        uses: openjournals/openjournals-draft-action@v1
+        uses: openjournals/openjournals-draft-action@master
         with:
           journal: joss
 
