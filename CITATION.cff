@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use StrainVector, please cite this work."
+title: "StrainVector: An Embedding-Based Framework for Strain-Level Metagenomic Analysis Using DNA Language Models"
+authors:
+  - family-names: "Lapkin"
+    given-names: "Jacob"
+    orcid: "https://orcid.org/0009-0002-6903-5925"
+version: "0.0.1"
+date-released: "2025-01-13"
+# DOI will be assigned upon JOSS publication
+repository-code: "https://github.com/jacoblapkin/strainvector"
+keywords:
+  - metagenomics
+  - embeddings
+  - DNA language models
+  - bioinformatics
+  - DNABERT
+  - vector search
+license: MIT
+
